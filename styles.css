@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.holder{
+    /* border: 2px solid red; */
+    display: flex;
+    font-size: 50px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    /* border: 2px solid blue; */
+    height: 18vh;
+    width:16vw;
+    background-color: green;
+}
+
+.item-1{
+    background-color: red;
+}
+
+.item-2{
+    background-color: blue;
+}
